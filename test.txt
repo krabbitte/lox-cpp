@@ -1,0 +1,3 @@
+// this is a comment
+(( "hello" 123.21 fun )){} // grouping stuff
+!*+-/=<> <= == // operators
